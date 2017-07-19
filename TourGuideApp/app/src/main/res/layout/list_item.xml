@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="@drawable/border_primary"
+	android:orientation="vertical"
+	android:padding="20dp">
+	
+	<ImageView
+		android:id="@+id/iv_location_image"
+		android:layout_width="match_parent"
+		android:layout_height="200dp"
+		android:layout_gravity="center"
+		android:scaleType="fitXY"/>
+	
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/colorLightGray"
+		android:orientation="vertical"
+		android:padding="5dp">
+		
+		<TextView
+			android:id="@+id/tv_location_heading"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:textColor="@android:color/black"
+			android:textStyle="bold"
+			android:typeface="serif"/>
+		
+		<TextView
+			android:id="@+id/tv_location_date"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@color/colorLightGray"
+			android:gravity="center"
+			android:textColor="@android:color/black"
+			android:textSize="14sp"
+			android:typeface="serif"/>
+	</LinearLayout>
+	
+	<TextView
+		android:id="@+id/tv_location_description"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:padding="5dp"
+		android:textColor="@android:color/black"
+		android:textSize="15sp"
+		android:typeface="sans"/>
+	
+	<TextView
+		android:id="@+id/tv_location_address"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:padding="5dp"
+		android:textSize="13sp"
+		android:typeface="serif"/>
+	
+	<TextView
+		android:id="@+id/tv_location_phone"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:drawablePadding="2dp"
+		android:drawableStart="@drawable/icon_phone"
+		android:textSize="13sp"
+		android:typeface="serif"/>
+
+</LinearLayout>

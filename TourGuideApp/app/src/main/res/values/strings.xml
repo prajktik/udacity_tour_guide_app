@@ -1,0 +1,176 @@
+<resources>
+	
+	<string name="app_name">Tour Guide</string>
+	<string name="app_title">NYC Tour Guide</string>
+	
+	<!-- Categories -->
+	<string name="tab_attractions">Attractions</string>
+	<string name="tab_events">Events</string>
+	<string name="tab_hotels">Hotels</string>
+	<string name="tab_restaurants">Restaurants</string>
+	
+	<!--Attractions Strings-->
+	<string name="empire_state_heading">Empire State Building</string>
+	<string name="empire_state_desc">Located in the heart of Midtown Manhattan, the Empire State
+        Building Experience is more than just a view. Embark on a journey through one of the most
+		famous landmarks in the world, where you will experience the Art Deco lobby and murals, the
+        historical “Dare to Dream” exhibit, and sustainability exhibit. Learn the fascinating
+        history of the building\'s construction, restoration and industry-leading sustainability
+        retrofit. Take in New York\'s most breathtaking views from its open-air observatory. See
+        New York\'s world-famous skyline as it was meant to be seen—until 2am every night. </string>
+	<string name="empire_state_address">350 5th Ave, New York, NY 10118</string>
+	
+	<string name="brooklyn_bridge_heading">Brooklyn Bridge</string>
+	<string name="brooklyn_bridge_desc">Stretching across the East River, the iconic Brooklyn
+        Bridge opened up back in 1883 to carry traffic (nonautomotive at the time) between Lower
+        Manhattan and Brooklyn. One of the most recognizable parts of the New York City skyline,
+        the bridge has been featured in movies and on television shows, and is a real piece of
+        New York City history. A stroll across the elevated pedestrian walkway provides a true
+        New York City experience. The Manhattan-side entrance is at Park Row and Centre Street,
+        across from City Hall Park, east of City Hall; over on the Brooklyn side, enter at Cadman
+        Plaza East or where Boerum Place meets Tillary Street.</string>
+	<string name="brooklyn_bridge_address">Brooklyn Bridge, New York, NY 10038</string>
+	
+	<string name="one_world_heading">One World Observatory</string>
+	<string name="one_world_desc">There are a million things to experience in New York City and
+        only one way to truly see them all. Start by ascending to the top of the tallest building
+        in the Western Hemisphere in less than 60 seconds; look toward the horizon and feel the
+        City\’s invincible spirit. Explore three levels filled with innovation and inspiration at
+        One World Observatory, located in the top three floors of One World Trade Center. </string>
+	<string name="one_world_address">285 Fulton St, New York, NY 10006</string>
+	
+	<string name="liberty_heading">Statue of Liberty National Monument</string>
+	<string name="liberty_desc">The Statue of Liberty is perhaps New York City\'s most familiar
+        landmark and the easiest one to overlook since it\'s only accessible by boat. This
+        historic monument has welcomed so many generations of hopeful Americans to our shores.
+        The American Family Immigration History Center at Ellis Island contains more than 25
+        million Port of New York passenger arrival records and 900 ship pictures circa 1892–1924.
+    </string>
+	<string name="liberty_address">Statue of Liberty National Monument, New York, NY 10004</string>
+	
+	<string name="central_park_heading">Central Park</string>
+	<string name="central_park_desc">Central Park is the largest park in Manhattan and without a
+        doubt the most famous in all of NYC. Established in 1857, the 843-acre oasis has served
+        as the scenic backdrop in countless movies and TV shows and functions as a kind of
+        all-encompassing public recreation area. Its many attractions include a zoo, an
+        ice-skating rink, a concert venue and several restaurants—not to mention its open fields,
+        woodlands, running paths and various bodies of water. Located in the middle of Manhattan,
+        the park, as its name suggests, is at the center of it all. </string>
+	<string name="central_park_address">Central Park, New York, NY 10024</string>
+	
+	<!--Events Strings-->
+	<string name="native_fashion_heading">Native Fashion Now</string>
+	<string name="native_fashion_date">Feb 17 - Sep 4 2017</string>
+	<string name="native_fashion_desc">This exhibition comprises 70 objects from the past 50
+        years that highlight Native American fashion and fashion designers. Including both
+        everyday wear and high-end pieces, Native Fashion Now features clothing, accessories and
+        footwear that marry contemporary aesthetics with traditional materials.</string>
+	<string name="native_fashion_address">National Museum of the American Indian, 1 Bowling
+        Green Manhattan, NY 10004</string>
+	<string name="native_fashion_web_link">http://nmai.si.edu/visit/newyork/</string>
+	
+	<string name="sunset_wednesdays_heading">Sunset Wednesdays</string>
+	<string name="sunset_wednesdays_desc">Wave Hill’s summer series returns with outdoor yoga,
+        garden walks, music on the Great Lawn and opportunities to view the exhibits in Glyndor
+        Gallery. Music will vary—rock, jazz, Irish folk—and the series culminates with two weeks
+        of salsa as part of Bronx Salsa Fest.</string>
+	<string name="sunset_wednesdays_date">Jul 19 - Aug 9 2017 </string>
+	<string name="sunset_wednesdays_address">Wave Hill, 675 W. 252nd St., Bronx, NY 10471</string>
+	<string name="sunset_wednesdays_web_link">
+        https://www.wavehill.org/events/categories/sunset-wednesdays/</string>
+	
+	<string name="interpid_movies_heading">Intrepid Summer Movie Series</string>
+	<string name="interpid_movies_date">Jul 18 - Aug 8 2017</string>
+	<string name="interpid_movies_desc">The deck of the USS Intrepid does double duty as a
+        \"drive-in\" (minus the cars) for this family-friendly (and free) summer film series on
+        Tuesdays in July and August.\n 2017 Schedule \nJuly 11: Good Morning, Vietnam
+        (1987)\nJuly 18: Anchorman (2004)\nJuly 25: Cocktail (1988)\nAugust 1: The Martian
+        (2015)\nAugust 8: Back To The Future (1985)</string>
+	<string name="interpid_movies_address">Intrepid Sea, Air &amp; Space Museum, Pier 86, Twelfth
+        Ave. at 46th St., Manhattan, NY 10036</string>
+	<string name="interpid_movies_web_link">https://www.intrepidmuseum.org/movie-series</string>
+	
+	<string name="chihuly_heading">Chihuly</string>
+	<string name="chihuly_date">Jul 19 - Oct 29 2017</string>
+	<string name="chihuly_desc">Dale Chihuly creates visually stunning exhibitions—his most
+        breathtaking ones being his colorful blown-glass creations that appear to be in constant
+        motion. Chihuly\’s works will be on display in a garden exhibition (his first in NYC in
+        more than 10 years) at the New York Botanical Garden, including one installation that was
+        inspired by his famous 1975 Artpark installation. On weekends throughout the six-month
+        exhibition, expect films, poetry and programming for kids. Chihuly Nights allows visitors
+        to experience the artist\’s works under the night sky.</string>
+	<string name="chihuly_address">New York Botanical Garden, 2900 Southern Blvd., Bronx, NY
+        10458</string>
+	<string name="chihuly_web_link">https://www.nybg.org/event/chihuly/</string>
+	
+	<string name="bryant_park_heading">Piano in Bryant Park</string>
+	<string name="bryant_park_date">Jul 19 - Sep 29 2017</string>
+	<string name="bryant_park_desc">This free summer concert series brings the sounds of live
+        jazz, ragtime and stride piano to Bryant Park. Stop by the bright green piano at the base
+        of the William Cullen Bryant Statue to hear tunes from talented musicians, weekdays from
+        12:30 to 2:30pm. Select performances throughout the series will also feature sing-alongs
+        and tap dancers. Pianists include Jon Weber, host of NPR’s Piano Jazz, and
+        Grammy-nominated jazz performer Sue Maskaleris. View the complete lineup on the Bryant
+        Park website.</string>
+	<string name="bryant_park_address"> Bryant Park, Sixth Ave. between 40th and 42nd Sts.,
+        Manhattan, NY</string>
+	<string name="bryant_park_web_link">http://bryantpark.org/plan-your-visit/piano.html</string>
+	
+	<!--Hotels Strings-->
+	<string name="plaza_heading">The Plaza Hotel</string>
+	<string name="plaza_address">Fifth Ave. at Central Park South, Manhattan, NY 10019</string>
+	<string name="plaza_phone"><a href="tel:(212)759-3000">(212)759-3000</a></string>
+	<string name="plaza_web_link">http://www.fairmont.com/the-plaza-new-york/</string>
+	
+	<string name="holiday_inn_heading">Holiday Inn Express</string>
+	<string name="holiday_inn_address">232 W. 29th St., Manhattan, NY 10001</string>
+	<string name="holiday_inn_phone"><a href="tel:(212)695-7200">(212)695-7200</a></string>
+	<string name="holiday_inn_web_link">http://www.midtownnychotel.com/</string>
+	
+	<string name="skyline_heading">Skyline Hotel</string>
+	<string name="skyline_address">725 Tenth Ave., Manhattan, NY 10019</string>
+	<string name="skyline_phone"><a href="tel:(212)586-3400">(212)586-3400</a></string>
+	<string name="skyline_web_link">http://www.skylinehotelny.com/</string>
+	
+	<string name="grace_heading">Room Mate Grace</string>
+	<string name="grace_address">125 W. 45th St., Manhattan, NY 10036</string>
+	<string name="grace_phone"><a href="tel:(212)354-2323">(212)354-2323</a></string>
+	<string name="grace_web_link">https://room-matehotels.com/es/grace/</string>
+	
+	<string name="row_heading">Row NYC</string>
+	<string name="row_address">700 Eighth Ave., Manhattan, NY 10036</string>
+	<string name="row_phone"><a href="tel:(212)869-3600">(212)869-3600</a></string>
+	<string name="row_web_link">http://www.rownyc.com/</string>
+	
+	<!--Restaurants Strings-->
+	<string name="stk_heading">STK Midtown</string>
+	<string name="stk_desc">Steakhouse, American, Cocktail Bar</string>
+	<string name="stk_address">1114 Sixth Ave., Manhattan, NY 10036</string>
+	<string name="stk_phone"><a href="tel:(646)624-2455">(646)624-2455</a></string>
+	<string name="stk_web_link">https://www.yelp.com/biz/stk-midtown-new-york</string>
+	
+	<string name="macondo_heading">Macondo West</string>
+	<string name="macondo_desc">Tapas Bar, Latin American, Spanish </string>
+	<string name="macondo_address">2 Bank St., Manhattan, NY 10014</string>
+	<string name="macondo_phone"><a href="tel:(212)463-0090">(212)463-0090</a></string>
+	<string name="macondo_web_link">https://www.yelp.com/biz/macondo-west-new-york</string>
+	
+	<string name="scaletta_heading">Scaletta Ristorante</string>
+	<string name="scaletta_desc">Italian, Fine Dining</string>
+	<string name="scaletta_address">50 W. 77th St., Manhattan, NY 10024</string>
+	<string name="scaletta_phone"><a href="tel:(212)769-9191">(212)769-9191</a></string>
+	<string name="scaletta_web_link">https://www.yelp.com/biz/scaletta-ristorante-new-york-2</string>
+	
+	<string name="michaels_heading">Michael\'s</string>
+	<string name="michaels_desc"> American (New), Salad, Pizza</string>
+	<string name="michaels_address">24 W. 55th St., Manhattan, NY 10019</string>
+	<string name="michaels_phone"><a href="tel:(212)767-0555">(212)767-0555</a></string>
+	<string name="michaels_web_link">https://www.yelp.com/biz/michaels-new-york</string>
+	
+	<string name="morgan_heading">The Morgan Dining Room</string>
+	<string name="morgan_desc"> American (New) </string>
+	<string name="morgan_address">225 Madison Ave., Manhattan, NY 10016</string>
+	<string name="morgan_phone"><a href="tel:(212)683-2130">(212)683-2130</a></string>
+	<string name="morgan_web_link">https://www.yelp.com/biz/the-morgan-dining-room-new-york</string>
+
+</resources>
